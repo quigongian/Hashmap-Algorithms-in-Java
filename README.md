@@ -1,5 +1,5 @@
 # Hashmap-Algorithms-in-Java
-!!Programmed in IntelliJ!!
+Programmed in IntelliJ
 
 The first algorithm finds distinguishing characters between two different strings.
 
